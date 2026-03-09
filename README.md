@@ -47,7 +47,7 @@
 ## 📦 Installation
 ```bash
 # Clone this repository
-git clone https://github.com/Miko-Ard/Galaxy-love.git
+git clone https://github.com/dzikri15/Galaxy-love.git
 
 # Navigate into the project
 cd Galaxy-love
