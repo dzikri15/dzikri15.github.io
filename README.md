@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dzikri15.github.io/Galaxy-love"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-blue?style=for-the-badge"></a>
+  <a href="https://dzikri15.github.io"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-blue?style=for-the-badge"></a>
   <a href="https://github.com/Miko-Ard/Galaxy-love/stargazers"><img src="https://img.shields.io/github/stars/Miko-Ard/Galaxy-love?color=ff69b4&style=for-the-badge"></a>
   <a href="https://github.com/Miko-Ard/Galaxy-love/issues"><img src="https://img.shields.io/github/issues/Miko-Ard/Galaxy-love?color=yellow&style=for-the-badge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/Miko-Ard/Galaxy-love?color=green&style=for-the-badge"></a>
